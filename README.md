@@ -48,11 +48,12 @@ This project is a simple yet effective encryption and decryption tool built usin
 Enter text: HelloWorld
 Encrypted text: b'XyZ123...'  # Example output
 
-![Screenshot 2025-02-18 203723](https://github.com/user-attachments/assets/e9352042-af17-49f3-ac67-70efd3ec3739)
 # Example decryption
 Enter encrypted text: b'XyZ123...'
 Decrypted text: HelloWorld
 ```
+![Screenshot 2025-02-18 203723](https://github.com/user-attachments/assets/e9352042-af17-49f3-ac67-70efd3ec3739)
+
 
 ## Contributing
 
